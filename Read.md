@@ -65,7 +65,14 @@
 5. Installing packages
 
     ```
-    python3 -m pip install requests
+    example     python3 -m pip install requests
+    ```
+    Install below 2 packages to tgis project.
+    ```
+    pip install Flask
+    ```
+    ```
+    pip install Flask-Mail
     ```
     + To output a list of package
     ```

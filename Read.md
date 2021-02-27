@@ -56,28 +56,17 @@
         ```
         source env/bin/activate
         ```
-    
-    To Deactivating:
-    ```
-    deactivate
-    ```
 
 5. Installing packages
 
-    ```
-    example     python3 -m pip install requests
-    ```
-    Install below 2 packages to tgis project.
+    Install below 2 packages to this project.
     ```
     pip install Flask
     ```
     ```
     pip install Flask-Mail
     ```
-    + To output a list of package
-    ```
-    python3 -m pip freeze
-    ```
+    
 ### between  step 5 or 6 ,follow anyone
 
 6. Directly intsall from this installtion file 
@@ -117,3 +106,12 @@
     + ``
     While running commands in linux if commands doesn't work, then use sudo before commands 
     ``
+    + To output a list of package
+    ```
+    python3 -m pip freeze
+    ```
+    + To Deactivating:
+    ```
+    deactivate
+    ```
+
